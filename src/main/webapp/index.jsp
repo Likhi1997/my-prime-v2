@@ -14,7 +14,7 @@
         <div class="loading-content">
             <i class="fas fa-play-circle"></i>
             <h1>Prime Video for you</h1>
-            <p>Loading your entertainment...</p>
+            <p>Loading your entertainment.please enjoy..</p>
         </div>
     </div>
     
