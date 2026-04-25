@@ -13,7 +13,7 @@
     <div class="loading-screen">
         <div class="loading-content">
             <i class="fas fa-play-circle"></i>
-            <h1>Prime Video</h1>
+            <h1>Prime Video by likhitha</h1>
             <p>Loading your entertainment.please enjoy..</p>
         </div>
     </div>
